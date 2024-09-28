@@ -70,6 +70,7 @@ install:
   - gh config set -h github.com git_protocol https
   # PIP
   - py -3 -m pip install semver
+  - pip install -e
   # Component
   - py -u scripts\setup.py
 
