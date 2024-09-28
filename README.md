@@ -9,6 +9,6 @@ Visit [component homepage](https://theqwertiest.github.io/foo_discord_rich) for 
 
 [changelog]: CHANGELOG.md
 [version_badge]: https://img.shields.io/github/release/theqwertiest/foo_discord_rich.svg
-[appveyor_badge]: https://ci.appveyor.com/api/projects/status/t5bhoxmfgavhq81m/branch/master?svg=true
+[appveyor_badge]: https://ci.appveyor.com/api/projects/status/7x63mu3i6917prgk/branch/master?svg=true
 [codacy_badge]: https://api.codacy.com/project/badge/Grade/319298ca5bd64a739d1e70e3e27d59ab
 [codefactor_badge]: https://www.codefactor.io/repository/github/theqwertiest/foo_discord_rich/badge/master
