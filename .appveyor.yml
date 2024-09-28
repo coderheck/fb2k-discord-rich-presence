@@ -42,14 +42,14 @@ image: Visual Studio 2022
 # environment variables
 environment:
   APPVEYOR_IGNORE_COMMIT_FILTERING_ON_TAG: true
-  git_user_email: theqwertiest@outlook.com
-  git_user_name: TheQwertiest
+  git_user_email: loxzyioxzybusiness@hotmail.com
+  git_user_name: coderheck
   GITHUB_TOKEN:
-    secure: Mxx+GpxY7koV77u4Mdjn6QWJdoaEgrWpKRGjDQf3DGRHniY7ZN6b3sW1MEpyUG7r6KDyIsrbQzNa8uc1oJIUtMYA/YzuoihOwlkS4RMv34gKruI4JEbN/I3LHSpBFa7v
+    secure: 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
 
 # this is how to allow failing jobs in the matrix
 matrix:
-  fast_finish: true     # set this flag to immediately finish build once one of the jobs fails.
+  fast_finish: false     # set this flag to immediately finish build once one of the jobs fails.
 
 for:
   -
