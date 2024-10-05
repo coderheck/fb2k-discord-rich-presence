@@ -71,6 +71,7 @@ install:
   # PIP
   - pip install semver
   - py -3 -m pip install semver
+  - refreshenv
   # Component
   - py -u scripts\setup.py
 
